@@ -91,7 +91,7 @@ Version 2.0 introduces major improvements to gameplay, vehicle visuals, traffic 
 <!-- Add your gameplay screenshots here -->
 
 <p align="center">
-  <img src="[YOUR_SCREENSHOT_URL_1](https://github.com/user-attachments/assets/700a4fa3-5563-49a6-a3eb-7d328173a589)" width="250" />
+  <img src="https://github.com/user-attachments/assets/700a4fa3-5563-49a6-a3eb-7d328173a589" width="250" />
   <img src="YOUR_SCREENSHOT_URL_2" width="250" />
   <img src="YOUR_SCREENSHOT_URL_3" width="250" />
 </p>
